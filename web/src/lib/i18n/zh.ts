@@ -347,6 +347,7 @@ const zh: Record<string, string> = {
   'admin.roleFailed': '更新角色失败: {error}',
   'admin.impersonateFailed': '模拟失败: {error}',
   'admin.viewingAs': '正在以 {email} 身份查看',
+  'admin.accountCount': '账户数',
   'admin.deleteConfirm': '删除用户"{email}"？此操作不可撤销。',
 
   // Search

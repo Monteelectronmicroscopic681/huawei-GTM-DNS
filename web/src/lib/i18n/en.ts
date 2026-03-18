@@ -347,6 +347,7 @@ const en: Record<string, string> = {
   'admin.roleFailed': 'Update role failed: {error}',
   'admin.impersonateFailed': 'Impersonate failed: {error}',
   'admin.viewingAs': 'Now viewing as {email}',
+  'admin.accountCount': 'Accounts',
   'admin.deleteConfirm': 'Delete user "{email}"? This cannot be undone.',
 
   // Search
